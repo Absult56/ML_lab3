@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """П. 5.4–5.6: Расчёт метрик MAE, MSE, коэффициента корреляции R и экспорт в results/results_Comparison.xlsx."""
 
 import numpy as np

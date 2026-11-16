@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """П. 3.1–3.3: Ансамблевые методы машинного обучения (Random Forest, Bagging, Gradient Boosting)."""
 
 from sklearn.ensemble import RandomForestRegressor, BaggingRegressor, GradientBoostingRegressor

@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """П. 2.1–2.3: Одиночные методы машинного обучения (KNN, SVR, Decision Tree)."""
 
 from sklearn.neighbors import KNeighborsRegressor
