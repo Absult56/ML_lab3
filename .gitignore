@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE & Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS & MS Office temporary lock files
+.DS_Store
+Thumbs.db
+~$*.docx
+~$*.xlsx
+
+# PyTorch / ML checkpoints & logs
+*.pt
+*.pth
+*.ckpt
+logs/
